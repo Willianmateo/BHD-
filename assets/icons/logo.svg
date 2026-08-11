@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="95" fill="#FF6B6B" stroke="#4ECDC4" stroke-width="3"/>
+  
+  <!-- Letra B -->
+  <text x="50" y="130" font-size="80" font-weight="bold" fill="white" font-family="Arial">B</text>
+  
+  <!-- Letra H -->
+  <text x="95" y="130" font-size="80" font-weight="bold" fill="white" font-family="Arial">H</text>
+  
+  <!-- Letra D -->
+  <text x="135" y="130" font-size="80" font-weight="bold" fill="white" font-family="Arial">D</text>
+  
+  <!-- Círculo decorativo externo -->
+  <circle cx="100" cy="100" r="100" fill="none" stroke="#4ECDC4" stroke-width="2" opacity="0.5"/>
+</svg>
