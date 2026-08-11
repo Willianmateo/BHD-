@@ -1,0 +1,21 @@
+{
+  "name": "bhd-app",
+  "version": "1.0.0",
+  "description": "BHD - Rifa de iPhone 17 Pro Max",
+  "main": "src/main.js",
+  "homepage": "./",
+  "author": "Willianmateo",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "dev": "electron . --debug"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.1.1"
+  },
+  "devDependencies": {
+    "electron": "^latest",
+    "electron-builder": "^latest"
+  }
+}
